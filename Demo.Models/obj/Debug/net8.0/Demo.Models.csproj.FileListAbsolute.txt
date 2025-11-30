@@ -1,0 +1,11 @@
+D:\C#\Demo\Demo.Models\bin\Debug\net8.0\Demo.Models.deps.json
+D:\C#\Demo\Demo.Models\bin\Debug\net8.0\Demo.Models.dll
+D:\C#\Demo\Demo.Models\bin\Debug\net8.0\Demo.Models.pdb
+D:\C#\Demo\Demo.Models\obj\Debug\net8.0\Demo.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Demo\Demo.Models\obj\Debug\net8.0\Demo.Models.AssemblyInfoInputs.cache
+D:\C#\Demo\Demo.Models\obj\Debug\net8.0\Demo.Models.AssemblyInfo.cs
+D:\C#\Demo\Demo.Models\obj\Debug\net8.0\Demo.Models.csproj.CoreCompileInputs.cache
+D:\C#\Demo\Demo.Models\obj\Debug\net8.0\Demo.Models.dll
+D:\C#\Demo\Demo.Models\obj\Debug\net8.0\refint\Demo.Models.dll
+D:\C#\Demo\Demo.Models\obj\Debug\net8.0\Demo.Models.pdb
+D:\C#\Demo\Demo.Models\obj\Debug\net8.0\ref\Demo.Models.dll

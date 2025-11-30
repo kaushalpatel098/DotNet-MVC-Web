@@ -1,0 +1,67 @@
+﻿@model Product
+
+<form method="POST">
+    @* <input asp-for="ID" hidden /> *@
+    <div class="border p-3 mt-4">
+        <div class="row pb-2">
+            <h2 class="text-primary">Edit a product listing</h2>
+            <hr />
+        </div>
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="mb-2 row">
+            <label asp-for="Title" class="form-label"></label>
+            <input asp-for="Title" class="form-control" placeholder="Enter the title" />
+            <span asp-validation-for="Title" class="text-danger is-invalid"></span>
+        </div>
+        <div class="mb-1 row">
+            <label asp-for="Description" class="form-label"></label>
+            <textarea asp-for="Description" class="form-control" placeholder="Description" ></textarea>
+            <span asp-validation-for="Description" class="text-danger is-invalid"></span>
+        </div>
+        <div class="mb-1 row">
+            <label asp-for="ISBN" class="form-label"></label>
+            <input asp-for="ISBN" class="form-control" placeholder="ISBN" />
+            <span asp-validation-for="ISBN" class="text-danger is-invalid"></span>
+        </div>
+        <div class="mb-1 row">
+            <label asp-for="Author" class="form-label"></label>
+            <input asp-for="Author" class="form-control" placeholder="Author" />
+            <span asp-validation-for="Author" class="text-danger is-invalid"></span>
+        </div>
+        <div class="mb-1 row">
+            <label asp-for="ListPrice" class="form-label"></label>
+            <input asp-for="ListPrice" class="form-control" placeholder="List Price" />
+            <span asp-validation-for="ListPrice" class="text-danger is-invalid"></span>
+        </div>
+        <div class="mb-1 row">
+            <label asp-for="Price" class="form-label"></label>
+            <input asp-for="Price" class="form-control" placeholder="Price for 1-50" />
+            <span asp-validation-for="Price" class="text-danger is-invalid"></span>
+        </div>
+        <div class="mb-1 row">
+            <label asp-for="Price50" class="form-label"></label>
+            <input asp-for="Price50" class="form-control" placeholder="Price for 51-100" />
+            <span asp-validation-for="Price50" class="text-danger is-invalid"></span>
+        </div>
+        <div class="mb-4 row">
+            <label asp-for="Price100" class="form-label"></label>
+            <input asp-for="Price100" class="form-control" placeholder="Price for 100+" />
+            <span asp-validation-for="Price100" class="text-danger is-invalid"></span>
+        </div>
+        <div class="row">
+            <div class="col-6">
+                <button type="submit" class="btn btn-primary form-control">Update</button>
+            </div>
+            <div class="col-6">
+                <a asp-area="Admin" asp-controller="Product" asp-action="Index" class="btn btn-secondary form-control">Back to the list</a>
+            </div>
+        </div>
+    </div>
+</form>
+
+@section Scripts {
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+}
+

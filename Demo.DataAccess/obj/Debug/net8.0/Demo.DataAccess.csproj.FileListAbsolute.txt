@@ -1,0 +1,17 @@
+D:\C#\Demo\Demo.DataAccess\obj\Debug\net8.0\Demo.DataAccess.csproj.AssemblyReference.cache
+D:\C#\Demo\Demo.DataAccess\obj\Debug\net8.0\Demo.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Demo\Demo.DataAccess\obj\Debug\net8.0\Demo.DataAccess.AssemblyInfoInputs.cache
+D:\C#\Demo\Demo.DataAccess\obj\Debug\net8.0\Demo.DataAccess.AssemblyInfo.cs
+D:\C#\Demo\Demo.DataAccess\obj\Debug\net8.0\Demo.DataAccess.csproj.CoreCompileInputs.cache
+D:\C#\Demo\Demo.DataAccess\bin\Debug\net8.0\Demo.DataAccess.deps.json
+D:\C#\Demo\Demo.DataAccess\bin\Debug\net8.0\Demo.DataAccess.runtimeconfig.json
+D:\C#\Demo\Demo.DataAccess\bin\Debug\net8.0\Demo.DataAccess.dll
+D:\C#\Demo\Demo.DataAccess\bin\Debug\net8.0\Demo.DataAccess.pdb
+D:\C#\Demo\Demo.DataAccess\bin\Debug\net8.0\Demo.Models.dll
+D:\C#\Demo\Demo.DataAccess\bin\Debug\net8.0\Demo.Models.pdb
+D:\C#\Demo\Demo.DataAccess\obj\Debug\net8.0\Demo.Dat.A47E8246.Up2Date
+D:\C#\Demo\Demo.DataAccess\obj\Debug\net8.0\Demo.DataAccess.dll
+D:\C#\Demo\Demo.DataAccess\obj\Debug\net8.0\refint\Demo.DataAccess.dll
+D:\C#\Demo\Demo.DataAccess\obj\Debug\net8.0\Demo.DataAccess.pdb
+D:\C#\Demo\Demo.DataAccess\obj\Debug\net8.0\Demo.DataAccess.genruntimeconfig.cache
+D:\C#\Demo\Demo.DataAccess\obj\Debug\net8.0\ref\Demo.DataAccess.dll

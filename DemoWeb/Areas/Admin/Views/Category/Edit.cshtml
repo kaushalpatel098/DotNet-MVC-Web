@@ -1,0 +1,36 @@
+﻿@model Category
+
+<form method="POST">
+    @* <input asp-for="ID" hidden /> *@
+    <div class="border p-3 mt-4">
+        <div class="row pb-2">
+            <h2 class="text-primary">Edit a category</h2>
+            <hr />
+        </div>
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="mb-2 row">
+            <label asp-for="Name" class="form-label"></label>
+            <input asp-for="Name" class="form-control" placeholder="Enter a category" />
+            <span asp-validation-for="Name" class="text-danger is-invalid"></span>
+        </div>
+        <div class="mb-1 row">
+            <label asp-for="DisplayOrder" class="form-label">Display Order</label>
+            <input asp-for="DisplayOrder" class="form-control" placeholder="Display Order" />
+            <span asp-validation-for="DisplayOrder" class="text-danger is-invalid"></span>
+        </div>
+        <div class="row">
+            <div class="col-6">
+                <button type="submit" class="btn btn-primary form-control">Update</button>
+            </div>
+            <div class="col-6">
+                <a asp-controller="Category" asp-action="Index" class="btn btn-secondary form-control">Back to the list</a>
+            </div>
+        </div>
+    </div>
+</form>
+
+@section Scripts {
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+}

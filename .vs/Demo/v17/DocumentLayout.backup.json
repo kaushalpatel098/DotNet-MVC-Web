@@ -1,0 +1,264 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEA711D-0E54-4EF3-A15D-A02DE1058DED}|DemoWeb\\DemoWeb.csproj|d:\\c#\\demo\\demoweb\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0DEA711D-0E54-4EF3-A15D-A02DE1058DED}|DemoWeb\\DemoWeb.csproj|solutionrelative:demoweb\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C422595-A719-4429-8466-F3F163AFF6CE}|Demo.Models\\Demo.Models.csproj|d:\\c#\\demo\\demo.models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C422595-A719-4429-8466-F3F163AFF6CE}|Demo.Models\\Demo.Models.csproj|solutionrelative:demo.models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEA711D-0E54-4EF3-A15D-A02DE1058DED}|DemoWeb\\DemoWeb.csproj|d:\\c#\\demo\\demoweb\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DEA711D-0E54-4EF3-A15D-A02DE1058DED}|DemoWeb\\DemoWeb.csproj|solutionrelative:demoweb\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEA711D-0E54-4EF3-A15D-A02DE1058DED}|DemoWeb\\DemoWeb.csproj|d:\\c#\\demo\\demoweb\\areas\\admin\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0DEA711D-0E54-4EF3-A15D-A02DE1058DED}|DemoWeb\\DemoWeb.csproj|solutionrelative:demoweb\\areas\\admin\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEA711D-0E54-4EF3-A15D-A02DE1058DED}|DemoWeb\\DemoWeb.csproj|d:\\c#\\demo\\demoweb\\areas\\admin\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0DEA711D-0E54-4EF3-A15D-A02DE1058DED}|DemoWeb\\DemoWeb.csproj|solutionrelative:demoweb\\areas\\admin\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEA711D-0E54-4EF3-A15D-A02DE1058DED}|DemoWeb\\DemoWeb.csproj|d:\\c#\\demo\\demoweb\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0DEA711D-0E54-4EF3-A15D-A02DE1058DED}|DemoWeb\\DemoWeb.csproj|solutionrelative:demoweb\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8FD55A9-853B-4C9A-8D29-691CBFE0A800}|Demo.DataAccess\\Demo.DataAccess.csproj|d:\\c#\\demo\\demo.dataaccess\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8FD55A9-853B-4C9A-8D29-691CBFE0A800}|Demo.DataAccess\\Demo.DataAccess.csproj|solutionrelative:demo.dataaccess\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEA711D-0E54-4EF3-A15D-A02DE1058DED}|DemoWeb\\DemoWeb.csproj|d:\\c#\\demo\\demoweb\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DEA711D-0E54-4EF3-A15D-A02DE1058DED}|DemoWeb\\DemoWeb.csproj|solutionrelative:demoweb\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEA711D-0E54-4EF3-A15D-A02DE1058DED}|DemoWeb\\DemoWeb.csproj|d:\\c#\\demo\\demoweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0DEA711D-0E54-4EF3-A15D-A02DE1058DED}|DemoWeb\\DemoWeb.csproj|solutionrelative:demoweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEA711D-0E54-4EF3-A15D-A02DE1058DED}|DemoWeb\\DemoWeb.csproj|d:\\c#\\demo\\demoweb\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0DEA711D-0E54-4EF3-A15D-A02DE1058DED}|DemoWeb\\DemoWeb.csproj|solutionrelative:demoweb\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEA711D-0E54-4EF3-A15D-A02DE1058DED}|DemoWeb\\DemoWeb.csproj|d:\\c#\\demo\\demoweb\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DEA711D-0E54-4EF3-A15D-A02DE1058DED}|DemoWeb\\DemoWeb.csproj|solutionrelative:demoweb\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8FD55A9-853B-4C9A-8D29-691CBFE0A800}|Demo.DataAccess\\Demo.DataAccess.csproj|d:\\c#\\demo\\demo.dataaccess\\repository\\irepository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8FD55A9-853B-4C9A-8D29-691CBFE0A800}|Demo.DataAccess\\Demo.DataAccess.csproj|solutionrelative:demo.dataaccess\\repository\\irepository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8FD55A9-853B-4C9A-8D29-691CBFE0A800}|Demo.DataAccess\\Demo.DataAccess.csproj|d:\\c#\\demo\\demo.dataaccess\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8FD55A9-853B-4C9A-8D29-691CBFE0A800}|Demo.DataAccess\\Demo.DataAccess.csproj|solutionrelative:demo.dataaccess\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8FD55A9-853B-4C9A-8D29-691CBFE0A800}|Demo.DataAccess\\Demo.DataAccess.csproj|d:\\c#\\demo\\demo.dataaccess\\repository\\irepository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8FD55A9-853B-4C9A-8D29-691CBFE0A800}|Demo.DataAccess\\Demo.DataAccess.csproj|solutionrelative:demo.dataaccess\\repository\\irepository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8FD55A9-853B-4C9A-8D29-691CBFE0A800}|Demo.DataAccess\\Demo.DataAccess.csproj|d:\\c#\\demo\\demo.dataaccess\\migrations\\20251129111241_addproducttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8FD55A9-853B-4C9A-8D29-691CBFE0A800}|Demo.DataAccess\\Demo.DataAccess.csproj|solutionrelative:demo.dataaccess\\migrations\\20251129111241_addproducttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\C#\\Demo\\DemoWeb\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DemoWeb\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "D:\\C#\\Demo\\DemoWeb\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "DemoWeb\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-29T11:59:02.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\C#\\Demo\\DemoWeb\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "DemoWeb\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\C#\\Demo\\DemoWeb\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "DemoWeb\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T11:45:37.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\C#\\Demo\\DemoWeb\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "DemoWeb\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "D:\\C#\\Demo\\DemoWeb\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "DemoWeb\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAC8AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-29T11:59:13.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\C#\\Demo\\DemoWeb\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "DemoWeb\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ToolTip": "D:\\C#\\Demo\\DemoWeb\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "DemoWeb\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-29T11:59:26.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\C#\\Demo\\DemoWeb\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DemoWeb\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\C#\\Demo\\DemoWeb\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DemoWeb\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T12:26:07.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\C#\\Demo\\Demo.Models\\Product.cs",
+              "RelativeDocumentMoniker": "Demo.Models\\Product.cs",
+              "ToolTip": "D:\\C#\\Demo\\Demo.Models\\Product.cs",
+              "RelativeToolTip": "Demo.Models\\Product.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwC4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T11:01:56.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\C#\\Demo\\Demo.DataAccess\\Repository\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Demo.DataAccess\\Repository\\UnitOfWork.cs",
+              "ToolTip": "D:\\C#\\Demo\\Demo.DataAccess\\Repository\\UnitOfWork.cs",
+              "RelativeToolTip": "Demo.DataAccess\\Repository\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T11:28:03.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\C#\\Demo\\Demo.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Demo.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
+              "ToolTip": "D:\\C#\\Demo\\Demo.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
+              "RelativeToolTip": "Demo.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T11:33:08.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\C#\\Demo\\DemoWeb\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "DemoWeb\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\C#\\Demo\\DemoWeb\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "DemoWeb\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAD4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-29T11:58:51.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\C#\\Demo\\Demo.DataAccess\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Demo.DataAccess\\Repository\\ProductRepository.cs",
+              "ToolTip": "D:\\C#\\Demo\\Demo.DataAccess\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "Demo.DataAccess\\Repository\\ProductRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T11:25:24.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\C#\\Demo\\DemoWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DemoWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\C#\\Demo\\DemoWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DemoWeb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-29T12:34:15.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\C#\\Demo\\DemoWeb\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DemoWeb\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\C#\\Demo\\DemoWeb\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DemoWeb\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-29T11:15:17.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\C#\\Demo\\Demo.DataAccess\\Repository\\IRepository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Demo.DataAccess\\Repository\\IRepository\\IProductRepository.cs",
+              "ToolTip": "D:\\C#\\Demo\\Demo.DataAccess\\Repository\\IRepository\\IProductRepository.cs",
+              "RelativeToolTip": "Demo.DataAccess\\Repository\\IRepository\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T11:23:49.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\C#\\Demo\\DemoWeb\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "DemoWeb\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\C#\\Demo\\DemoWeb\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "DemoWeb\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAAAGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T11:21:53.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20251129111241_AddProductTable.cs",
+              "DocumentMoniker": "D:\\C#\\Demo\\Demo.DataAccess\\Migrations\\20251129111241_AddProductTable.cs",
+              "RelativeDocumentMoniker": "Demo.DataAccess\\Migrations\\20251129111241_AddProductTable.cs",
+              "ToolTip": "D:\\C#\\Demo\\Demo.DataAccess\\Migrations\\20251129111241_AddProductTable.cs",
+              "RelativeToolTip": "Demo.DataAccess\\Migrations\\20251129111241_AddProductTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T11:12:41.265Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
